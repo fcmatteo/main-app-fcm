@@ -70,10 +70,10 @@ depd@~1.1.2:
   resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.2.tgz#9bcd52e14c097763e749b274c4346ed2e560b5a9"
   integrity sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=
 
-dependency-fcm@latest:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/dependency-fcm/-/dependency-fcm-1.0.1.tgz#8078e1f9800db5d233a02787410684494cbbf643"
-  integrity sha512-++2Fvu80e73d0QJ7s+BRYQdiKatTpU9QChezYyv8EolbrJ3YJgO4vWwr3+9j1Eky5kPalDccKGO9qEM1G8hTSw==
+dependency-fcm@*:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/dependency-fcm/-/dependency-fcm-1.0.2.tgz#639f860628c40ba1d1db17d6fa9c20dc8072d452"
+  integrity sha512-Z4eKp0ywguUVUBs6wzfejRAp0ZsYrKYd9MqLkLl1KW5MZBo8AZrrk39yEpOPlsRNABSrdp1EqfIPpe/UaR6RWQ==
 
 destroy@~1.0.4:
   version "1.0.4"

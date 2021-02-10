@@ -1,7 +1,7 @@
 const express = require('express')
 const dependency = require('dependency-fcm')
+const PORT = process.env.PORT || 5000
 
 express()
   .get('/', (req, res) => res.send(dependency))
-  .listen(80, () => console.log(`Listening on 80`))
-  
+  .listen(PORT, () => console.log(`Listening on ${ PORT }`))
